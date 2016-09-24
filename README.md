@@ -14,6 +14,6 @@ https://en.wikipedia.org/wiki/Vi
 https://en.wikipedia.org/wiki/Vim_(text_editor)   
   
 Tutorials:  
-https://youtu.be/YhqsjUUHj6g  
-https://youtu.be/v2I_lvS_Vls  
-https://youtu.be/5r6yzFEXajQ  
+https://youtu.be/YhqsjUUHj6g  - vim as python IDE
+https://youtu.be/v2I_lvS_Vls  - vim + tmux basics (Ruby)
+https://youtu.be/5r6yzFEXajQ  - vim + tmux (OMG!Code)
