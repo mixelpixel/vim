@@ -30,7 +30,7 @@ set backspace=indent,eol,start
 set ruler
 
 
-" turn programming syntax highlights ON:
+" turn programming syntax highlights on
 " http://alvinalexander.com/linux/vi-vim-editor-syntax-highlighting
 
 syntax on
