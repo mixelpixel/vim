@@ -23,6 +23,6 @@ http://vim.wikia.com/wiki/Switching_case_of_characters
     
   
 http://stackoverflow.com/questions/2561418/how-to-comment-out-a-block-of-python-code-in-vim
-  
+http://stackoverflow.com/questions/1676632/whats-a-quick-way-to-comment-uncomment-lines-in-vim  
     
       
