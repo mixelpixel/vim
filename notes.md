@@ -16,3 +16,5 @@ or
   
 What do 's' and 'g' stand for/mean?  
   
+  
+http://vim.wikia.com/wiki/Switching_case_of_characters  
