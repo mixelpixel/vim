@@ -2,6 +2,8 @@
 vim related files and notes  
   
 Useful resources:  
+
+https://media.pragprog.com/titles/dnvim2/vim.pdf  
   
 http://www.vim.org/  
   
