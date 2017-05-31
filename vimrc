@@ -1,3 +1,10 @@
+" https://unix.stackexchange.com/questions/108427/i-have-an-environment-variable-for-lang-set-in-profile-but-it-is-not-getting
+" it's a good idea to `echo $LANG` to confirm system is set to: en_US.UTF-8
+" more info: https://unix.stackexchange.com/questions/23389/how-can-i-set-vims-default-encoding-to-utf-8
+
+set encoding=utf-8
+
+
 " per: http://superuser.com/questions/86246/where-should-the-vimrc-file-be-located-on-windows-7
 " this will display line numbers
 
