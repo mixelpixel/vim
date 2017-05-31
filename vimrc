@@ -37,9 +37,9 @@ set tabstop=2       " The width of a TAB is set to 4.
 set shiftwidth=2    " Indents will have a width of 4
 
 set softtabstop=2   " Sets the number of columns for a TAB
-" TURN OFF TO USE VIM WITH MAKEFILE
-set expandtab       " Expand TABs to spaces
 
+set expandtab       " Expand TABs to spaces
+                    " TURN OFF TO USE VIM WITH MAKEFILE
 
 " uncomment for 4 spaces
 "
@@ -51,7 +51,7 @@ set expandtab       " Expand TABs to spaces
 "set shiftwidth=4    " Indents will have a width of 4
 "
 "set softtabstop=4   " Sets the number of columns for a TAB
-"" TURN OFF TO USE VIM WITH MAKEFILE
+"
 "set expandtab       " Expand TABs to spaces
-
+"                    " TURN OFF TO USE VIM WITH MAKEFILE
 
