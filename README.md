@@ -17,3 +17,5 @@ https://en.wikipedia.org/wiki/Vim_(text_editor)
 - http://vim.wikia.com/wiki/Vim_Tips_Wiki
 - http://www.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm
 - https://github.com/thomcom/vim
+
+![Bill Joy, the creator of the vi editor](https://en.wikipedia.org/wiki/Vi#/media/File:Bill_joy.jpg)
