@@ -18,4 +18,4 @@ https://en.wikipedia.org/wiki/Vim_(text_editor)
 - http://www.radford.edu/~mhtay/CPSC120/VIM_Editor_Commands.htm
 - https://github.com/thomcom/vim
 
-![Bill Joy, the creator of the vi editor](https://en.wikipedia.org/wiki/Vi#/media/File:Bill_joy.jpg)
+![Bill Joy, the creator of the vi editor](https://upload.wikimedia.org/wikipedia/commons/e/e2/Bill_joy.jpg)
