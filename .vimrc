@@ -1,18 +1,21 @@
 " Use Vim settings, rather then Vi settings (much better!).
 " This must be first, because it changes other options as a side effect.
+
 set nocompatible
 
+
 " sets how characters are represented in the program
+
 set encoding=utf-8
 
 
 " sets how the file gets encoded
+
 set fileencodings=ucs-bom,utf-8,latin1
 
 
 " per: http://superuser.com/questions/86246/where-should-the-vimrc-file-be-located-on-windows-7
 " this will display line numbers
-
 set number
 
 
@@ -40,18 +43,18 @@ autocmd BufNewFile,BufFilePre,BufRead *.md set filetype=markdown.pandoc
 " per http://stackoverflow.com/questions/1878974/redefine-tab-as-4-spaces
 " changed from 4 to 2 spaces
 
-set tabstop=2       " The width of a TAB is set to 4.
+set tabstop=2       " The width of a TAB is set to 2.
                     " Still it is a \t. It is just that
                     " Vim will interpret it to be having
-                    " a width of 4.
+                    " a width of 2.
 
-set shiftwidth=2    " Indents will have a width of 4
+set shiftwidth=2    " Indents will have a width of 2
 
 set softtabstop=2   " Sets the number of columns for a TAB
 
 " TURNED OFF TO USE WITH MAKEFILE
 " set expandtab       " Expand TABs to spaces
-
+"
 " uncomment for 4 spaces
 "
 "set tabstop=4       " The width of a TAB is set to 4.
@@ -70,4 +73,3 @@ set softtabstop=2   " Sets the number of columns for a TAB
 
 "set list
 set nolist
-
